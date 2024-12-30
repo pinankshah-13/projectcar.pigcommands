@@ -1,0 +1,16 @@
+Car_ID,Make,Model,Year,Price,Mileage,Fuel_Type,Transmission,Color,Seats,Dealer_ID
+1,Toyota,Corolla,2020,20000,30000,Petrol,Automatic,Red,5,101
+2,Honda,Civic,2019,22000,25000,Diesel,Manual,Blue,5,102
+3,Ford,Focus,2018,18000,40000,Petrol,Automatic,White,5,103
+4,Chevrolet,Malibu,2021,25000,20000,Diesel,Manual,Black,5,104
+5,BMW,X3,2020,42000,15000,Petrol,Automatic,Silver,5,105
+6,Audi,A4,2022,39000,10000,Diesel,Manual,Grey,5,106
+7,Hyundai,Elantra,2019,19000,35000,Petrol,Automatic,Blue,5,107
+8,Nissan,Altima,2020,21000,27000,Diesel,Manual,White,5,108
+9,Kia,Sportage,2021,23000,23000,Petrol,Automatic,Red,5,109
+10,Mercedes,C-Class,2022,45000,12000,Diesel,Automatic,Black,5,110
+11,Volkswagen,Jetta,2018,24000,33000,Petrol,Manual,Silver,5,111
+12,Volvo,XC60,2021,37000,20000,Diesel,Automatic,Grey,5,112
+13,Mazda,CX-5,2019,26000,29000,Petrol,Manual,Blue,5,113
+14,Tesla,Model 3,2022,50000,5000,Electric,Automatic,White,5,114
+15,Jaguar,XF,2020,48000,18000,Petrol,Automatic,Red,5,115
